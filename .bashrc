@@ -177,5 +177,5 @@ function pull() {
 	then
 		rsync $FLAGS $EXCLUDE $SRC $DEST
 	fi
-
+}
 #Custom functions end here ty :)
