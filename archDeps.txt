@@ -1,0 +1,11 @@
+# you complete me dependencies
+build-essential
+cmake
+vim
+python3
+
+mono
+go
+nodejs
+jre-openjdk-headless
+npm
