@@ -1,9 +1,9 @@
+# vim and dependencies
+vim
 # you complete me dependencies
 build-essential
 cmake
-vim
 python3
-
 mono
 go
 nodejs
