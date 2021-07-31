@@ -2,6 +2,9 @@
 # ~/.bashrc
 #
 
+# Safer editing courtesy of u/AlternOSx
+EDITOR=vim
+
 [[ $- != *i* ]] && return
 
 colors() {
